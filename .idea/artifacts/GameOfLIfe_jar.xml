@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GameOfLIfe:jar">
+    <output-path>$USER_HOME$/Desktop/New folder (2)</output-path>
+    <root id="archive" name="GameOfLIfe.jar">
+      <element id="module-output" name="GameOfLIfe" />
+      <element id="directory" name="src">
+        <element id="dir-copy" path="$PROJECT_DIR$/src" />
+      </element>
+      <element id="directory" name="Resources" />
+      <element id="file-copy" path="$PROJECT_DIR$/README.txt" />
+    </root>
+  </artifact>
+</component>
